@@ -6,3 +6,11 @@ test('verify console message',async({page})=>{
 }
 
 );
+
+
+test('verify console message',async({page})=>{
+
+    console.log('su branch testing');
+}
+
+);
