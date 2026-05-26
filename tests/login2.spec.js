@@ -21,3 +21,22 @@ test('verify console message',async({page})=>{
 }
 
 );
+test('verify console message',async({page})=>{
+
+    console.log('su branch testing');
+}
+
+);
+
+test('verify console message',async({page})=>{
+
+    console.log('su branch testing');
+}
+
+);lg
+test('verify console message',async({page})=>{
+
+    console.log('su branch testing yo');
+}
+
+);
